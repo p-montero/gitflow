@@ -1,6 +1,7 @@
 # README
 # gitflow repository
-gitflow-testing
+
+`gitflow-testing`
 
 This repo is for testing Git branching model as defined by Gitflow or the link below:
 
